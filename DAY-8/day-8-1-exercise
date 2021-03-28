@@ -1,8 +1,10 @@
 #Write your code below this line 👇
 
+from math import ceil
+
 def paint_calc(height, width,cover):
-  can = round((height * width)/cover)
-  print(f"You will need {can} cans of paint.")
+  can = ceil((height * width)/cover)
+  print(f"You'll need {can} cans of paint.")
 
 
 #Write your code above this line 👆
