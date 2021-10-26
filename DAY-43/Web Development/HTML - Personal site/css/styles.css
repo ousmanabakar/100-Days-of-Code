@@ -1,0 +1,18 @@
+body{
+    background-color: #AEF6F6;
+    }
+hr{
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    }
+h1 {
+    text-transform: capitalize;
+    color: #66BFBF;
+}
+h3 {
+    text-transform: capitalize;
+    color: #66BFBF;
+}
